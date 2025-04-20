@@ -29,7 +29,7 @@ CheckLogin()
     loop, 100 ; Цикл для проверки логина, выполняется 100 раз
     {
         put1 = C:\Users\niki-\Desktop\key213\images\pers.png ; Путь к папке с изображениями
-        pasword = Antoshkin24112899 ; Пароль для входа в игру
+        pasword =  ; Пароль для входа в игру
         
         ; Получаем цвета пикселей на экране
         PixelGetColor, Color_tt, 813, 411, RGB
